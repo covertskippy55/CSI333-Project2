@@ -1,0 +1,14 @@
+Average length of a word =   7.18
+
+Average no. of vowels in a word =   2.82
+
+No. of words with at least three vowels =   6
+
+Number of palindromes = 3
+
+Number of words of length  10 =    0
+Number of words of length  11 =    1
+Number of words of length  12 =    2
+Number of words of length  13 =    0
+Number of words of length  14 =    1
+Number of words of length  15 =    0
